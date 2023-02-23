@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackiejoe45&label=Profile%20views&color=0e75b6&style=flat" alt="jackiejoe45" /> </p>
 
+- 🌱 I’m currently learning **Front-End development**
+- 👯 I’m looking to collaborate on **Web and Web Apps**
+- ⚡ Fun fact **I like to learn new things**
 - 📫 How to reach me **abdulbencharles@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
