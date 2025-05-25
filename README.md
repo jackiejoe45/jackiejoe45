@@ -91,101 +91,13 @@
   
 </details>
 
-<!-- ## 🏆 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Canvas Dark (Browser Extension)</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://via.placeholder.com/300x180?text=Canvas+Dark" width="300" alt="Canvas Dark" /></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=codepen" />
-          </a>
-        </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - A browser extension that reduces eye strain by providing multiple adaptable dark themes for Canvas LMS.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Attendance Recording System</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://via.placeholder.com/300x180?text=Attendance+System" width="300" alt="Attendance System" /></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=youtube" />
-          </a>
-        </p>
-        <p><strong>Arduino, C++, Hardware</strong> - An Arduino-based fingerprint scanner system for tracking student attendance, capable of storing data for over 100 students.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">E-med Mobile App</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://via.placeholder.com/300x180?text=E-med+App" width="300" alt="E-med App" /></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=google-play" />
-          </a>
-        </p>
-        <p><strong>Mobile Development</strong> - A healthcare access application designed to improve medical service accessibility for residents of Berekuso in Ghana's Eastern Region.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Helicopter Renovation Project</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://via.placeholder.com/300x180?text=Helicopter+Project" width="300" alt="Helicopter Project" /></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Case Study-green?style=for-the-badge&logo=notion" />
-          </a>
-        </p>
-        <p><strong>Engineering, Project Management</strong> - Collaborative renovation project with the Ghana Armed Forces to restore a helicopter at Aburi Gardens, focusing on safety and functionality.</p>
-      </div>
-    </td>
-  </tr>
-</table> -->
-
 
 ## 📈 GitHub Statistics
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackiejoe45&theme=tokyonight" alt="jackiejoe45 streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackiejoe45&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on innovative projects and connecting with fellow developers. Feel free to reach out if you'd like to work together or just chat about technology!
-
-<div align="center">
-  <a href="mailto:abdulbencharles@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/bencharlesabdul">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/abdul-ben-charles">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
