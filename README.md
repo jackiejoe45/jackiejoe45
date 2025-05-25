@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Abdul Ben Charles</h1>
-<h3 align="center">Computer Engineer & Software Developer from 🇬🇭 Ghana</h3>
+<h3 align="center">Computer & Software Engineer from 🇬🇭 Ghana</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackiejoe45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,11 +15,8 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering Major and ALX Software Engineering Program graduate with a passion for both hardware and software development. I thrive at the intersection of innovative software solutions and practical hardware applications. My journey in tech is driven by a desire to create impactful solutions that address real-world challenges.
-
-- 🔭 I'm currently working on **a Urinalysis System**
-- 🌱 I'm currently advancing my skills in **Front-End Development and UI/UX Design**
-- ⚡ Fun fact: **I'm constantly seeking new technologies to learn and master**
+- Computer Engineer (Ashesi University) 
+- Software Engineer (ALX) 
 
 ## 🛠️ Skills
 
