@@ -93,6 +93,11 @@
 
 
 ## 📈 GitHub Statistics
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackiejoe45&theme=tokyonight" alt="jackiejoe45 streak" />
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jackiejoe45&theme=humoris&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackiejoe45&layout=compact&theme=radical" alt="Top Languages" />
