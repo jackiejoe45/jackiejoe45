@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Abdul Ben Charles</h1>
-<h3 align="center">Computer & Software Engineer from 🇬🇭 Ghana</h3>
+<h3 align="center">Computer & Software Engineer . 🇬🇭 Ghana</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackiejoe45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,7 +7,6 @@
 
 <div align="center">
   
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bencharlesabdul)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-ben-charles)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdulbencharles@gmail.com)
   
